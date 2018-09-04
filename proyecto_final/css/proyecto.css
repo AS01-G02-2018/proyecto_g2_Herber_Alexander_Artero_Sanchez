@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: rgba(52, 150, 214, 0.37);
+    width: 80%;
+    height:605px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+#titulo1{
+    float: right;
+    background: green;
+    width: 25%;
+}
+#titulo2{
+   float: left;
+    background: blue;
+
+}
